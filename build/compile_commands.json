@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/Clearning/project/build",
+  "command": "D:\\SET\\mingw64\\bin\\gcc.exe  @CMakeFiles/project.dir/includes_C.rsp -g -o CMakeFiles\\project.dir\\src\\main.c.obj -c D:\\Clearning\\project\\src\\main.c",
+  "file": "D:/Clearning/project/src/main.c"
+},
+{
+  "directory": "D:/Clearning/project/build",
+  "command": "D:\\SET\\mingw64\\bin\\gcc.exe  @CMakeFiles/project.dir/includes_C.rsp -g -o CMakeFiles\\project.dir\\src\\max.c.obj -c D:\\Clearning\\project\\src\\max.c",
+  "file": "D:/Clearning/project/src/max.c"
+},
+{
+  "directory": "D:/Clearning/project/build",
+  "command": "D:\\SET\\mingw64\\bin\\gcc.exe  @CMakeFiles/project.dir/includes_C.rsp -g -o CMakeFiles\\project.dir\\src\\min.c.obj -c D:\\Clearning\\project\\src\\min.c",
+  "file": "D:/Clearning/project/src/min.c"
+}
+]

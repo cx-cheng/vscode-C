@@ -1,0 +1,5 @@
+D:/Clearning/project/build/CMakeFiles/project.dir
+D:/Clearning/project/build/CMakeFiles/package.dir
+D:/Clearning/project/build/CMakeFiles/package_source.dir
+D:/Clearning/project/build/CMakeFiles/edit_cache.dir
+D:/Clearning/project/build/CMakeFiles/rebuild_cache.dir
